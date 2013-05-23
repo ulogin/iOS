@@ -15,7 +15,7 @@
 }
 
 -(NSSet*)optional{
-	return [NSSet setWithObjects:@"email", @"photo", nil];
+	return [NSSet setWithObjects:@"photo", @"phone", nil];
 }
 
 -(NSString*)client{
