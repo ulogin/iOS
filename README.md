@@ -8,8 +8,9 @@ Supported orientations: portrait, landscape
 SDK предназначена для интеграции в iOS приложения разработчиками мобильных приложений.
 Поддерживаются все социальные сети, реализуемые uLogin.
 
+Представленная HowTo также доступна по адресу http://ulogin.ru/mobile/ios
 
-HowTo (также доступна по адресу)
+HowTo
 ===
 0. Скачать uLogin iOS SDK и тестовое приложение (https://github.com/ulogin/iOS/archive/master.zip)
 
